@@ -64,21 +64,21 @@
 <app>
 <title>KS Screenshot</title>
 <image>https://store-images.s-microsoft.com/image/apps.29610.14322528874369052.f60dff54-c8b7-4956-86f4-ef575ae85058.e76df318-3ee7-42a7-978a-d0afa520b68c</image>
-<url>ms-windows-store://pdp/?productid=9PPSS278VPCF});</url>
+<url>ms-windows-store://pdp/?productid=9PPSS278VPCF</url>
 </app>
 <app>
 <title>Typing game: catch the thieves</title>
 <image>https://store-images.s-microsoft.com/image/apps.43064.14589714280874608.a7a0c315-fd06-4a3c-b19a-a1cd2130aa7f.4fbd1d9d-91d2-473c-9a47-27b46b071e9b?w=1399&h=1047&q=90&format=jpg</image>
-<url>ms-windows-store://pdp/?productid=9p4fmxwt1qfk});</url>
+<url>ms-windows-store://pdp/?productid=9p4fmxwt1qfk</url>
 </app>
 <app>
 <title>Typing game: frog across the river</title>
 <image>https://store-images.s-microsoft.com/image/apps.28824.13751127262521684.4a325716-2c63-4574-86f8-ad05c758e655.ed7d2daf-faf3-4ba0-9372-40abbf7b0027?w=1399&h=1008&q=90&format=jpg</image>
-<url>ms-windows-store://pdp/?productid=9nn2d5s4kt75});</url>
+<url>ms-windows-store://pdp/?productid=9nn2d5s4kt75</url>
 </app>
 <app>
 <title>Typing Game - Fighting Viruses</title>
 <image>https://store-images.s-microsoft.com/image/apps.58047.14412004607631440.d723af66-5788-429d-a922-cb84c264319e.a06315eb-e0e6-4e02-be95-e09571da5ba9?w=585&h=788&q=90&format=jpg</image>
-<url>ms-windows-store://pdp/?productid=9nttcd4q4cx3});</url>
+<url>ms-windows-store://pdp/?productid=9nttcd4q4cx3</url>
 </app>
 
